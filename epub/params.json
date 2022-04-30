@@ -41,7 +41,7 @@
             "id": 0,
             "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -53,7 +53,7 @@
             "id": 1,
             "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -65,7 +65,7 @@
             "id": 2,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -77,7 +77,7 @@
             "id": 3,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -87,13 +87,14 @@
             "filename": "az_na_dno_blahobytu_005.md",
             "xhtml": "az_na_dno_blahobytu_005.xhtml",
             "id": 4,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "az_na_dno_blahobytu_006.md",
@@ -105,8 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předmluva ke druhému vydání"
+            "title": "Předmluva ke druhému vydání",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_007.md",
@@ -118,8 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Úvod: Zplodiny blahobytu"
+            "title": "Úvod: Zplodiny blahobytu",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_008.md",
@@ -131,8 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Trh, ekonomický růst a příroda"
+            "title": "Trh, ekonomický růst a příroda",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_009.md",
@@ -144,8 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Potřeby, konzum a příroda"
+            "title": "Potřeby, konzum a příroda",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_010.md",
@@ -157,8 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Politická moc a příroda"
+            "title": "Politická moc a příroda",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_011.md",
@@ -170,8 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Reálný socialismus jako přírodní pohroma a krize státu blahobytu"
+            "title": "Reálný socialismus jako přírodní pohroma a krize státu blahobytu",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_012.md",
@@ -183,8 +184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zablokované řešení: Společnost v hypnóze"
+            "title": "Zablokované řešení: Společnost v hypnóze",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_013.md",
@@ -196,8 +197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Výzva k přežití: Decentralizace"
+            "title": "Výzva k přežití: Decentralizace",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_014.md",
@@ -209,8 +210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Místo doslovu"
+            "title": "Místo doslovu",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_015.md",
@@ -222,8 +223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Shrnutí"
+            "title": "Shrnutí",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_016.md",
@@ -235,8 +236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Literatura"
+            "title": "Literatura",
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_017.md",
@@ -244,7 +245,7 @@
             "id": 16,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -437,6 +438,6 @@
       "user": "books-are-next",
       "repo": "keller-az-na-dno-blahobytu"
     },
-    "generatedAt": 1651313358438
+    "generatedAt": 1651313772808
   }
 }
