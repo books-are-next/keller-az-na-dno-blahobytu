@@ -1,11 +1,14 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Až na dno blahobytu",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Keller",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-31T00:00:00.000Z"
+      "modified": "2022-03-31T00:00:00.000Z",
+      "isbn": "978-80-274-2064-3"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -30,61 +33,67 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "az_na_dno_blahobytu_001.md",
             "xhtml": "az_na_dno_blahobytu_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_002.md",
             "xhtml": "az_na_dno_blahobytu_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_003.md",
             "xhtml": "az_na_dno_blahobytu_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_004.md",
             "xhtml": "az_na_dno_blahobytu_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_005.md",
             "xhtml": "az_na_dno_blahobytu_005.xhtml",
             "id": 4,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "az_na_dno_blahobytu_006.md",
@@ -95,7 +104,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Předmluva ke druhému vydání"
           },
           {
             "filename": "az_na_dno_blahobytu_007.md",
@@ -106,7 +117,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Úvod: Zplodiny blahobytu"
           },
           {
             "filename": "az_na_dno_blahobytu_008.md",
@@ -117,7 +130,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Trh, ekonomický růst a příroda"
           },
           {
             "filename": "az_na_dno_blahobytu_009.md",
@@ -128,7 +143,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Potřeby, konzum a příroda"
           },
           {
             "filename": "az_na_dno_blahobytu_010.md",
@@ -139,7 +156,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Politická moc a příroda"
           },
           {
             "filename": "az_na_dno_blahobytu_011.md",
@@ -150,7 +169,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Reálný socialismus jako přírodní pohroma a krize státu blahobytu"
           },
           {
             "filename": "az_na_dno_blahobytu_012.md",
@@ -161,7 +182,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zablokované řešení: Společnost v hypnóze"
           },
           {
             "filename": "az_na_dno_blahobytu_013.md",
@@ -172,7 +195,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Výzva k přežití: Decentralizace"
           },
           {
             "filename": "az_na_dno_blahobytu_014.md",
@@ -183,7 +208,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Místo doslovu"
           },
           {
             "filename": "az_na_dno_blahobytu_015.md",
@@ -194,7 +221,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Shrnutí"
           },
           {
             "filename": "az_na_dno_blahobytu_016.md",
@@ -205,18 +234,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Literatura"
           },
           {
             "filename": "az_na_dno_blahobytu_017.md",
             "xhtml": "az_na_dno_blahobytu_017.xhtml",
             "id": 16,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -404,6 +436,6 @@
       "user": "books-are-next",
       "repo": "keller-az-na-dno-blahobytu"
     },
-    "generatedAt": 1651313358438
+    "generatedAt": 1651313772808
   }
 }

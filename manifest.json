@@ -1,0 +1,489 @@
+{
+  "author": "Jan Keller",
+  "contenttype": "prose",
+  "identifier": "keller-az-na-dno-blahobytu-451f68e",
+  "isbn": "978-80-274-2064-3",
+  "languagecode": "cs",
+  "modified": "2022-03-31T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Až na dno blahobytu",
+  "revision": "451f68e",
+  "generatedAt": {
+    "date": "Sat Apr 30 2022 10:17:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651313823277
+  },
+  "documents": [
+    {
+      "title": "Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "az_na_dno_blahobytu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_005.html",
+      "words": 33,
+      "chars": 212,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "az_na_dno_blahobytu_002.html",
+      "next": "az_na_dno_blahobytu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva ke druhému vydání • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_006.html",
+      "words": 315,
+      "chars": 2255,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 2,
+      "prev": "az_na_dno_blahobytu_005.html",
+      "next": "az_na_dno_blahobytu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva ke druhému vydání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úvod: Zplodiny blahobytu • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_007.html",
+      "words": 1919,
+      "chars": 12947,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 3,
+      "prev": "az_na_dno_blahobytu_006.html",
+      "next": "az_na_dno_blahobytu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úvod: Zplodiny blahobytu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trh, ekonomický růst a příroda • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_008.html",
+      "words": 4053,
+      "chars": 28000,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 4,
+      "prev": "az_na_dno_blahobytu_007.html",
+      "next": "az_na_dno_blahobytu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trh, ekonomický růst a příroda",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Iluze růstu",
+              "id": "iluze-růstu",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Růst, anebo kolaps",
+              "id": "růst-anebo-kolaps",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Růst a chudoba",
+              "id": "růst-achudoba",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Ekonomický růst a třetí svět",
+              "id": "ekonomický-růst-atřetí-svět",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Ekonomický růst a devastace přírody",
+              "id": "ekonomický-růst-adevastace-přírody",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Vedlejší důsledky ekonomického růstu",
+              "id": "vedlejší-důsledky-ekonomického-růstu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Potřeby, konzum a příroda • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_009.html",
+      "words": 6844,
+      "chars": 46625,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 5,
+      "prev": "az_na_dno_blahobytu_008.html",
+      "next": "az_na_dno_blahobytu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Potřeby, konzum a příroda",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Potřeby přirozené a potřeby vynucené",
+              "id": "potřeby-přirozené-apotřeby-vynucené",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Potřeby trhu",
+              "id": "potřeby-trhu",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Konzum jako azyl",
+              "id": "konzum-jako-azyl",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Automobil jako droga",
+              "id": "automobil-jako-droga",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Potřeby politického režimu",
+              "id": "potřeby-politického-režimu",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Konzum v pařeništi",
+              "id": "konzum-vpařeništi",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Případ McDonald’s",
+              "id": "případ-mcdonalds",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Politická moc a příroda • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_010.html",
+      "words": 8341,
+      "chars": 58353,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 6,
+      "prev": "az_na_dno_blahobytu_009.html",
+      "next": "az_na_dno_blahobytu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Politická moc a příroda",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kontraproduktivita národních států",
+              "id": "kontraproduktivita-národních-států",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Masová demokracie a příroda",
+              "id": "masová-demokracie-apříroda",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Profesionálové politiky a političtí analfabeti",
+              "id": "profesionálové-politiky-apolitičtí-analfabeti",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Šance přírody v soupeření politických stran",
+              "id": "šance-přírody-vsoupeření-politických-stran",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Všechny strany jsou konzervativní",
+              "id": "všechny-strany-jsou-konzervativní",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Televize jako symbol pasivní demokracie",
+              "id": "televize-jako-symbol-pasivní-demokracie",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reálný socialismus jako přírodní pohroma a krize státu blahobytu • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_011.html",
+      "words": 4759,
+      "chars": 33874,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 7,
+      "prev": "az_na_dno_blahobytu_010.html",
+      "next": "az_na_dno_blahobytu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Reálný socialismus jako přírodní pohroma a krize státu blahobytu",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitalismus versus socialismus:",
+              "id": "kapitalismus-versus-socialismus",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Peníze a úřad",
+              "id": "peníze-aúřad",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Devastace páchnoucí a devastace voňavá",
+              "id": "devastace-páchnoucí-adevastace-voňavá",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zablokované řešení: Společnost v hypnóze • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_012.html",
+      "words": 3176,
+      "chars": 22078,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 8,
+      "prev": "az_na_dno_blahobytu_011.html",
+      "next": "az_na_dno_blahobytu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zablokované řešení: Společnost v hypnóze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výzva k přežití: Decentralizace • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_013.html",
+      "words": 4631,
+      "chars": 32569,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 9,
+      "prev": "az_na_dno_blahobytu_012.html",
+      "next": "az_na_dno_blahobytu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výzva k přežití: Decentralizace",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Neviditelná ruka konzumu",
+              "id": "neviditelná-ruka-konzumu",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Decentralizace podle přírody",
+              "id": "decentralizace-podle-přírody",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Raději život než blahobyt",
+              "id": "raději-život-než-blahobyt",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Místo doslovu • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_014.html",
+      "words": 2,
+      "chars": 13,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "az_na_dno_blahobytu_013.html",
+      "next": "az_na_dno_blahobytu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Místo doslovu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Shrnutí • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_015.html",
+      "words": 803,
+      "chars": 5818,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 11,
+      "prev": "az_na_dno_blahobytu_014.html",
+      "next": "az_na_dno_blahobytu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Shrnutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Literatura • Až na dno blahobytu",
+      "file": "az_na_dno_blahobytu_016.html",
+      "words": 556,
+      "chars": 3702,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 12,
+      "prev": "az_na_dno_blahobytu_015.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Literatura",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Až na dno blahobytu",
+      "file": "colophon.html",
+      "words": 172,
+      "chars": 1085,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
+      "prev": "az_na_dno_blahobytu_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 35610,
+      "chars": 247560,
+      "ideas": 484
+    },
+    "chapters": {
+      "words": 35432,
+      "chars": 246446,
+      "ideas": 457
+    }
+  }
+}
