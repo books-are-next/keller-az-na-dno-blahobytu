@@ -1,0 +1,273 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Až na dno blahobytu",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jan Keller",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-03-31T00:00:00.000Z",
+    "published": "2022-03-30T09:37:50.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_017.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_az_na_dno_blahobytu.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva ke druhému vydání",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Úvod: Zplodiny blahobytu",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_007.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "Trh, ekonomický růst a příroda",
+      "children": [
+        {
+          "title": "Iluze růstu",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Růst, anebo kolaps",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Růst a chudoba",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Ekonomický růst a třetí svět",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Ekonomický růst a devastace přírody",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Vedlejší důsledky ekonomického růstu",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-9"
+        }
+      ],
+      "href": "OEBPS/Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "Potřeby, konzum a příroda",
+      "children": [
+        {
+          "title": "Potřeby přirozené a potřeby vynucené",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Potřeby trhu",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Konzum jako azyl",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Automobil jako droga",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Potřeby politického režimu",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Konzum v pařeništi",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Případ McDonald’s",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-17"
+        }
+      ],
+      "href": "OEBPS/Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "Politická moc a příroda",
+      "children": [
+        {
+          "title": "Kontraproduktivita národních států",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Masová demokracie a příroda",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Profesionálové politiky a političtí analfabeti",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Šance přírody v soupeření politických stran",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Všechny strany jsou konzervativní",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Televize jako symbol pasivní demokracie",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-24"
+        }
+      ],
+      "href": "OEBPS/Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "Reálný socialismus jako přírodní pohroma a krize státu blahobytu",
+      "children": [
+        {
+          "title": "Kapitalismus versus socialismus: Oblasti kontroly a oblasti relativní svobody",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_011.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Peníze a úřad jako dva alternativní nástroje kontroly",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_011.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Devastace páchnoucí a devastace voňavá",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_011.xhtml#_idParaDest-28"
+        }
+      ],
+      "href": "OEBPS/Text/az_na_dno_blahobytu_011.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "Zablokované řešení: Společnost v hypnóze",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_012.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "Výzva k přežití: Decentralizace",
+      "children": [
+        {
+          "title": "Neviditelná ruka konzumu",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_013.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Decentralizace podle přírody",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_013.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Raději život než blahobyt",
+          "href": "OEBPS/Text/az_na_dno_blahobytu_013.xhtml#_idParaDest-33"
+        }
+      ],
+      "href": "OEBPS/Text/az_na_dno_blahobytu_013.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "Místo doslovu",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_014.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "Shrnutí",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_015.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "Literatura",
+      "href": "OEBPS/Text/az_na_dno_blahobytu_016.xhtml#_idParaDest-36"
+    }
+  ]
+}

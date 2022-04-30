@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Až na dno blahobytu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva ke druhému vydání</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Úvod: Zplodiny blahobytu</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Trh, ekonomický růst a příroda</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-3"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Iluze růstu</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Růst, anebo kolaps</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Růst a chudoba</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Ekonomický růst a třetí svět</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Ekonomický růst a devastace přírody</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Vedlejší důsledky ekonomického růstu</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_008.xhtml#_idParaDest-9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Potřeby, konzum a příroda</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-10"/>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Potřeby přirozené a potřeby vynucené</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Potřeby trhu</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Konzum jako azyl</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Automobil jako droga</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Potřeby politického režimu</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Konzum v pařeništi</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Případ McDonald’s</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_009.xhtml#_idParaDest-17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Politická moc a příroda</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-18"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Kontraproduktivita národních států</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Masová demokracie a příroda</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Profesionálové politiky a političtí analfabeti</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Šance přírody v soupeření politických stran</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Všechny strany jsou konzervativní</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Televize jako symbol pasivní demokracie</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_010.xhtml#_idParaDest-24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Reálný socialismus jako přírodní pohroma a krize státu blahobytu</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_011.xhtml#_idParaDest-25"/>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Kapitalismus versus socialismus: Oblasti kontroly a oblasti relativní svobody</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_011.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Peníze a úřad jako dva alternativní nástroje kontroly</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_011.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Devastace páchnoucí a devastace voňavá</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_011.xhtml#_idParaDest-28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Zablokované řešení: Společnost v hypnóze</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_012.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Výzva k přežití: Decentralizace</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_013.xhtml#_idParaDest-30"/>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Neviditelná ruka konzumu</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_013.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Decentralizace podle přírody</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_013.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Raději život než blahobyt</text>
+        </navLabel>
+        <content src="Text/az_na_dno_blahobytu_013.xhtml#_idParaDest-33"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Místo doslovu</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_014.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Shrnutí</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_015.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Literatura</text>
+      </navLabel>
+      <content src="Text/az_na_dno_blahobytu_016.xhtml#_idParaDest-36"/>
+    </navPoint>
+  </navMap>
+</ncx>
