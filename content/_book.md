@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-31T00:00:00.000Z'
   isbn: 978-80-274-2064-3
 readingOrder:
-  - az_na_dno_blahobytu_002.html
+  - promo.html
   - az_na_dno_blahobytu_005.html
   - az_na_dno_blahobytu_006.html
   - az_na_dno_blahobytu_007.html
