@@ -51,7 +51,7 @@
             "filename": "az_na_dno_blahobytu_002.md",
             "xhtml": "az_na_dno_blahobytu_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -437,6 +437,6 @@
       "user": "books-are-next",
       "repo": "keller-az-na-dno-blahobytu"
     },
-    "generatedAt": 1651317539858
+    "generatedAt": 1652351643588
   }
 }

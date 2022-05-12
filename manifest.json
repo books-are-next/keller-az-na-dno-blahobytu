@@ -1,21 +1,38 @@
 {
-  "author": "Jan Keller",
-  "contenttype": "prose",
-  "identifier": "keller-az-na-dno-blahobytu-c1d28ae",
-  "isbn": "978-80-274-2064-3",
-  "languagecode": "cs",
-  "modified": "2022-03-31T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Až na dno blahobytu",
-  "revision": "c1d28ae",
+  "author": "Jan Keller",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "keller-az-na-dno-blahobytu-1ec90b5",
+  "revision": "1ec90b5",
+  "readingOrder": [
+    "promo.html",
+    "az_na_dno_blahobytu_005.html",
+    "az_na_dno_blahobytu_006.html",
+    "az_na_dno_blahobytu_007.html",
+    "az_na_dno_blahobytu_008.html",
+    "az_na_dno_blahobytu_009.html",
+    "az_na_dno_blahobytu_010.html",
+    "az_na_dno_blahobytu_011.html",
+    "az_na_dno_blahobytu_012.html",
+    "az_na_dno_blahobytu_013.html",
+    "az_na_dno_blahobytu_014.html",
+    "az_na_dno_blahobytu_015.html",
+    "az_na_dno_blahobytu_016.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sat Apr 30 2022 11:19:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651317598608
+    "date": "Thu May 12 2022 10:43:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352236687
   },
   "documents": [
     {
-      "title": "Až na dno blahobytu",
-      "file": "az_na_dno_blahobytu_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +40,7 @@
       "order": 0,
       "prev": null,
       "next": "az_na_dno_blahobytu_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Až na dno blahobytu",
@@ -41,7 +50,7 @@
       "ideas": 2,
       "role": "chapter",
       "order": 1,
-      "prev": "az_na_dno_blahobytu_002.html",
+      "prev": "promo.html",
       "next": "az_na_dno_blahobytu_006.html",
       "toc": [
         {
@@ -54,7 +63,7 @@
       ]
     },
     {
-      "title": "Předmluva ke druhému vydání • Až na dno blahobytu",
+      "title": "Předmluva ke druhému vydání",
       "file": "az_na_dno_blahobytu_006.html",
       "words": 315,
       "chars": 2255,
@@ -74,7 +83,7 @@
       ]
     },
     {
-      "title": "Úvod: Zplodiny blahobytu • Až na dno blahobytu",
+      "title": "Úvod: Zplodiny blahobytu",
       "file": "az_na_dno_blahobytu_007.html",
       "words": 1919,
       "chars": 12947,
@@ -94,7 +103,7 @@
       ]
     },
     {
-      "title": "Trh, ekonomický růst a příroda • Až na dno blahobytu",
+      "title": "Trh, ekonomický růst a příroda",
       "file": "az_na_dno_blahobytu_008.html",
       "words": 4053,
       "chars": 28000,
@@ -157,7 +166,7 @@
       ]
     },
     {
-      "title": "Potřeby, konzum a příroda • Až na dno blahobytu",
+      "title": "Potřeby, konzum a příroda",
       "file": "az_na_dno_blahobytu_009.html",
       "words": 6844,
       "chars": 46625,
@@ -227,7 +236,7 @@
       ]
     },
     {
-      "title": "Politická moc a příroda • Až na dno blahobytu",
+      "title": "Politická moc a příroda",
       "file": "az_na_dno_blahobytu_010.html",
       "words": 8341,
       "chars": 58353,
@@ -290,7 +299,7 @@
       ]
     },
     {
-      "title": "Reálný socialismus jako přírodní pohroma a krize státu blahobytu • Až na dno blahobytu",
+      "title": "Reálný socialismus jako přírodní pohroma a krize státu blahobytu",
       "file": "az_na_dno_blahobytu_011.html",
       "words": 4759,
       "chars": 33874,
@@ -332,7 +341,7 @@
       ]
     },
     {
-      "title": "Zablokované řešení: Společnost v hypnóze • Až na dno blahobytu",
+      "title": "Zablokované řešení: Společnost v hypnóze",
       "file": "az_na_dno_blahobytu_012.html",
       "words": 3176,
       "chars": 22078,
@@ -352,7 +361,7 @@
       ]
     },
     {
-      "title": "Výzva k přežití: Decentralizace • Až na dno blahobytu",
+      "title": "Výzva k přežití: Decentralizace",
       "file": "az_na_dno_blahobytu_013.html",
       "words": 4631,
       "chars": 32569,
@@ -394,7 +403,7 @@
       ]
     },
     {
-      "title": "Místo doslovu • Až na dno blahobytu",
+      "title": "Místo doslovu",
       "file": "az_na_dno_blahobytu_014.html",
       "words": 2,
       "chars": 13,
@@ -414,7 +423,7 @@
       ]
     },
     {
-      "title": "Shrnutí • Až na dno blahobytu",
+      "title": "Shrnutí",
       "file": "az_na_dno_blahobytu_015.html",
       "words": 803,
       "chars": 5818,
@@ -434,7 +443,7 @@
       ]
     },
     {
-      "title": "Literatura • Až na dno blahobytu",
+      "title": "Literatura",
       "file": "az_na_dno_blahobytu_016.html",
       "words": 556,
       "chars": 3702,
@@ -454,11 +463,11 @@
       ]
     },
     {
-      "title": "Tiráž • Až na dno blahobytu",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 172,
-      "chars": 1085,
-      "ideas": 25,
+      "words": 147,
+      "chars": 908,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "az_na_dno_blahobytu_016.html",
@@ -476,9 +485,9 @@
   ],
   "totals": {
     "all": {
-      "words": 35610,
-      "chars": 247560,
-      "ideas": 484
+      "words": 35585,
+      "chars": 247383,
+      "ideas": 478
     },
     "chapters": {
       "words": 35432,
