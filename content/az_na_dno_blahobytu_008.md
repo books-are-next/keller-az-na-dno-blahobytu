@@ -5,8 +5,6 @@ contentType: prose
 
 ## Iluze růstu
 
-  
-
 Heslo ekonomického růstu patří k základní ideové výbavě politiků stojících v čele neudržitelné společnosti. V jejich slibech plní ekonomický růst nejméně trojí funkci:
 
 1) Je příslibem dalšího zvýšení životní úrovně všech členů dané společnosti. Argumentuje se tím, že jedině ekonomický růst dokáže vytvořit přebytek, z něhož budou moci být uspokojeny potřeby nejen vyšších a středních vrstev, ale časem i těch nejchudších. Protože trh věrně reprodukuje existující sociální nerovnosti, je přetrvávající nerovná distribuce a nerovný konzum spolehlivou zárukou toho, že také do budoucna bude zapotřebí ekonomického růstu, který jedině může situaci tržně méně úspěšných vylepšit. Takto lze strategii růstu ospravedlňovat až do naprostého vyčerpání všech zdrojů.
@@ -20,8 +18,6 @@ Ve všech třech případech by měl ekonomický růst dodat prostředky k upra
 Proč vlastně ekonomové a politici právě na ekonomickém růstu tolik lpí? Jejich důvody mají jen velmi málo společného s manifestními cíli ekonomického růstu.
 
 ## Růst, anebo kolaps
-
-  
 
 Tržní podnikání funguje na základě ušlechtilého hesla: „Peníze, nebo život.“ Tržní systém musí neustále expandovat, nemá-li se zhroutit. V podmínkách peněžního hospodářství expandovat znamená „kontrolovat více peněz“. Bez dostatku financí nelze investovat, provádět inovace ve výrobě, rozšiřovat sortiment. Bez investování, inovací a rozšiřování sortimentu nelze obstát v konkurenci, neboť druzí investují, inovují a rozšiřují. Rychlejší růst znamená větší možnost změny, ta zase více tržních příležitostí (na úkor těch, kdo byli méně dynamičtí), a tedy více možností většího profitu. Větší profit znamená více finančních zdrojů pro další změnu atd. atd.
 
@@ -41,8 +37,6 @@ Rozhodování v této situaci je tedy zdánlivě jednoznačné: je třeba učin
 
 ## Růst a chudoba
 
-  
-
 Ekonomický růst bývá vydáván za jedinou možnou cestu k odstranění chudoby a za záruku dalšího vzestupu životní úrovně těch, jichž se chudoba netýká. Ve skutečnosti ty země, které zaznamenávají ekonomický růst, zaznamenávají zpravidla zároveň nárůst počtu osob žijících pod hranicí bídy. Od roku 1973 klesá hodnota reálné mzdy ve Spojených státech i přes to, že hrubý národní produkt rostl v letech 1973–1988 v průměru o 2,65 %. Ve stejné době vzrostl počet chudých v této zemi z 23 milionů na více než 35 milionů. Pokud by za stejnou dobu nenastoupilo dalších 13 milionů žen, které dosud pracovat nemusely, byla by sociální bilance ekonomického růstu ještě horší.
 
 Země reálného socialismu zaznamenávaly stálé přírůstky hrubého národního produktu až do svého naprostého ekonomického zhroucení.
@@ -56,8 +50,6 @@ Kromě sociálních příčin existují i ekologické příčiny, které způso
 Ilustrativní příklad uvádí rovněž Douthwaite. Jestliže vzroste počet letadel startujících z určitého letiště, lidé v okolí budou bránit svůj klid kupováním zdvojených oken. Prodaná okna jsou registrována jako zvýšení objemu hrubého národního produktu. Přitom k nové formě konzumu došlo pouze proto, že lidé byli donuceni nakupovat to, co dříve měli zadarmo, tedy klid. Tato forma konzumu ve skutečnosti nezvýšila blahobyt konzumentů, snaží se pouze uchovat standard z minula. Budeme mít příležitost přesvědčit se, že nezanedbatelná část konzumní prosperity současných vyspělých společností spočívá právě ve vynuceném kupování zdvojených oken.
 
 ## Ekonomický růst a třetí svět
-
-  
 
 Vyspělé země nastartovaly svůj ekonomický růst v epoše kolonialismu a uskutečňovaly ho do značné míry na úkor zemí třetího světa. Dnes vystupují rozvojové země jako největší dlužníci zemí vyspělých.
 
@@ -83,8 +75,6 @@ Ve světle podobných údajů si nelze nepoložit otázku, zda ekonomický růst
 
 ## Ekonomický růst a devastace přírody
 
-  
-
 Stoupenci „ekonomického růstu za každou cenu“ zdůrazňují, že jedině růst může opatřit chybějící finance na záchranu přírody. Nepřipouštějí, že příroda až dosud naopak opatřuje veškeré zdroje pro záchranu ekonomického růstu a že právě proto vypadá dnes tak, jak vypadá.
 
 Ekonomické teorie i ekonomické instituce vycházejí z premisy, podle níž je celkový dopad lidských ekonomických aktivit na prostředí zanedbatelný vzhledem k regenerativním schopnostem přírody. Stejným způsobem přistupují ekonomové paradoxně také k neobnovitelným zdrojům, které se v dimenzích lidského času regenerovat nedokáží. Proto mohou například cenu fosilních zdrojů energie kalkulovat jako funkci nákladů na těžbu. Pokud bychom měli se zbylými zdroji hospodařit skutečně zodpovědně, pak by se kromě nákladů na těžbu musely do cen neobnovitelných zdrojů promítat též ztráty, které vyplynou příštím generacím z toho, že spotřebované zdroje zamořují prostředí. Jen díky tomu, že se tímto způsobem například ceny fosilního paliva zásadně nekalkulují, mohou si vyspělé země ještě nějakou dobu dovolit udržovat svoji prosperitu. Navíc přitom zadarmo znečišťují prostředí planety i těm, kdo sami spotřebovávají neobnovitelné zdroje jen minimálně.
@@ -104,8 +94,6 @@ Nepřekvapuje, že jen od roku 1990 bylo na světový trh vyvrženo celkem 60 mi
 Neví se přesně ani to, kolik toxických odpadů každoročně produkuje světový chemický průmysl. Na základě dostupných dat se odhaduje, že by to snad mohlo být něco mezi 325 až 375 miliony tun. Zároveň je však známo, že dostupná data mohou oficiálně přiznávat pouze menší část skutečného stavu.
 
 ## Vedlejší důsledky ekonomického růstu
-
-  
 
 Nejzávažnější ekologické problémy současnosti mají svého společného jmenovatele. Je jím ekonomický růst praktikovaný v prostředí, jehož zdroje jsou omezené.
 

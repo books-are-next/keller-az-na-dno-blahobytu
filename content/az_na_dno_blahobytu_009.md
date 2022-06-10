@@ -3,13 +3,9 @@ title: "Potřeby, konzum a\_příroda"
 contentType: prose
 ---
 
-  
-
 Když roku 1972 na Stockholmské konferenci o životním prostředí indická ministerská předsedkyně Indíra Gándhíová prohlásila bídu existující v zemích třetího světa za největší světové ekologické znečištění, mohli si praví viníci blížící se ekologické katastrofy alespoň na chvíli oddechnout, neboť pozornost byla alespoň zatím odvrácena jiným směrem. Teprve o dvacet let později na ekologickém summitu v Rio de Janeiru uvedl malajsijský ministerský předseda věci opět na správnou míru. Upozornil na to, že i kdyby 90 % méně zámožných obyvatel planety vymřelo hladem, skutečné znečištění klesne pouze o 10 %.
 
 ## Potřeby přirozené a potřeby vynucené
-
-  
 
 Na první a velice povrchní pohled by se mohlo zdát, že dnešní výroba a dnešní konzum jsou nutné, protože se vyrábí a konzumuje to, co lidé potřebují. Pokud by tomu tak skutečně bylo, byla by ekologická katastrofa bohužel neodvratná. Naštěstí tomu tak není. Že je tomu jinak, napadne nás, jakmile se zamyslíme nad tím, proč průměrný Američan spotřebuje 1,7krát více energie než Němec a dokonce 2,5násobek spotřeby průměrného Japonce. Potřebuje skutečně denně, měsíčně i ročně nechávat za sebou tak objemné haldy degradovaného odpadu? Spíše se zdá, že lidé potřebují právě tolik, nač zrovna mají. Právě podle tohoto kritéria dělí Alan Durning dnešních zhruba 5 miliard obyvatel zeměkoule do tří kategorií:
 
@@ -37,8 +33,6 @@ Všechny vzpomenuté potřeby ve skutečnosti úroveň života příliš nezvyš
 
 ## Potřeby trhu
 
-  
-
 Mnohé z potřeb, které lidé bez ohledu na aktuální stupeň devastace přírody považují za své vlastní potřeby, jsou ve skutečnosti potřebami trhu, respektive potřebami jednotlivých firem na trhu soupeřících. Aby mohli producenti s úspěchem prodávat své zboží, musí toto zboží někdo spotřebovat. Pokud tomu tak není, existují dvě možnosti. Buďto producent zkrachuje, anebo se mu podaří přesvědčit dostatečný počet zákazníků o tom, že jeho výrobky ve skutečnosti neodkladně potřebují. Proto bývá na trhu nejúspěšnější ta výrobní aktivita, která uspokojuje potřeby, jež sama budí. Činit lidi uměle neuspokojenými je úlohou reklamy. Reklamní slogany jim sugerují, že zvýšení odbytu nejnovějšího pracího prostředku není ani tak v zájmu firmy, která prací prášky vyrábí, jako spíše v nejvlastnějším zájmu řadových hospodyněk, pro které již prací šlágr minulé sezóny není přece jen dost dobrý.
 
 Je zvláštní, kolik teoretického úsilí ekonomů a kolik exaktnosti ekonomických matematiků spolu se sofistikovaností jejich počítačových programů je zapotřebí k tomu, aby se výstupem celého snažení nakonec stala stupidní reklama. Jen ve Velké Británii vzrostly výdaje na reklamu v letech 1950–1986 více než pětinásobně (ve srovnatelných údajích) a zadlužení konzumentů, poslušně respektujících pokyny reklam, dosáhlo roku 1988 již 17 % jejich celkových příjmů. Před televizorem, tedy masmédiem, které zásobuje populaci reklamami nejvydatněji, prosedí průměrný Brit denně tři a tři čtvrtě hodiny, zatímco v roce 1955, kdy ekonomický růst nebyl ještě tak pokročilý, věnoval průměrný Brit televizi pouze asi dvě hodiny denně.
@@ -52,8 +46,6 @@ Výsledkem je, že dnes průměrný Američan konzumuje zhruba tolik jako dvacet
 Konkurence, která je nepochybně motorem výroby, se zároveň stává kontraproduktivní. Vynucuje si rychlou destrukci výrobků i strojů a vytváří stále nové potřeby na straně populace. Trh se v této záležitosti ostatně nemusí příliš vnucovat. Sociální charakter obyvatelstva vyspělých zemí tvoří přímo ideální terén pro tvorbu stále nových potřeb.
 
 ## Konzum jako azyl
-
-  
 
 V jedné ze svých posledních prací vyjádřil Erich Fromm rozhořčení a zklamání nad tím, že typický člověk moderní společnosti se stará především o to „mít“ a mnohem méně touží po tom autenticky „být“. Fromm kritizuje konzumní mentalitu, podle níž lidé sami sebe posuzují v prvé řadě v závislosti na tom, jakými spotřebními statky se dokázali obklopit. Fromm konstatuje, že konzumování je snad nejdůležitější formou vlastnění v průmyslových společnostech. Jejich mentalita nutí lidi, aby konzumovali stále více, protože to, co již jednou spotřebovali, je přestává uspokojovat. Pomíjivé užívání konzumních statků a jejich brzká výměna za statky nové vytváří bezvýchodný koloběh spotřebního nakupování. Je jen logické, že sebevyšší výroba a sebetrvalejší ekonomický růst nemohou v těchto podmínkách definitivně uspokojit nikoho. Vzniká typ „homo consumens“, který vyžaduje stálý růst produkce, protože bytostně lpí na stálém růstu osobní spotřeby, v jejíchž kategoriích definuje sám sebe i druhé lidi. S Frommovým popisem situace nelze nesouhlasit. Zároveň je však nutno upozornit, že by bylo velmi podivné, pokud by se běžný člověk v podmínkách moderní společnosti choval jiným způsobem.
 
@@ -80,8 +72,6 @@ Je zbytečné chtít po lidech, aby svých konzumních rituálů zanechali. Ve s
 Konzumní rituál je jednou z mála aktivit, která nevyčerpává a neunavuje. Jako každý rituál navíc uklidňuje, neboť je signálem, že vše je na svém místě a vše se děje přesně tak, jak se dít má. Návody k použití spotřebních předmětů jsou ve vyspělých zemích zásadně i na zboží, s nímž si hravě ví rady malé dítě. Neustálé rady zákazníkům, že zástrčka se má dát do zásuvky a hrnec postavit při vaření na plotnu, mají v sobě cosi magického. U každého rituálu je svrchovaně důležité provádět zcela přesně i ten nejdrobnější úkon a jak je vidět, výrobci nechtějí ponechat zhola nic náhodě.
 
 ## Automobil jako droga
-
-  
 
 Osobní automobil se stal čítankovým příkladem sobectví člověka vedeného snahou privatizovat zisky ze svého počínání a zároveň na celou společnost rozložit příslušné náklady. Přesto však bývají k automobilistům sociologové snad až příliš krutí, když líčí jejich touhu po automobilu jako výraz snahy zvýšit a upevnil svůj sociální status prostřednictvím určité formy ostentativního konzumu. Co však mají řidiči dělat, když se narodili do společnosti, která jim neumožňuje prezentovat svůj status méně páchnoucím způsobem?
 
@@ -117,8 +107,6 @@ Zároveň automobil umožňuje tolik žádanou individualizaci. I pokud nelze z
 
 ## Potřeby politického režimu
 
-  
-
 Princip konkurence jako základ tržního hospodářství je založen na tom, že zákazníka lze přesvědčit o potřebnosti právě toho zboží a těch služeb, které poskytuje výrobce. Diktát podnikatelů je zákazníky vděčně přijímán, neboť dokáže využít nejistot i určité vykořeněnosti člověka v moderní společnosti. Osobní konzum dokáže vytvořit lahodnou a zářivou atmosféru bezpečného útočiště před anonymními silami neosobních mechanismů příliš velkých formálních organizací. Tato bariéra je příjemná na dotek a krásně voní. Lidé koneckonců berou i skvělou svěžest výfukových plynů vlastního automobilu, který je činí nezávislými na jízdních řádech. Stále nové a nové spotřební cetky je přesvědčují o tom, že i ve společnosti, které už dávno přestali rozumět, lze žít docela obstojně.
 
 Společnost nakonec funguje jako velký hrací automat. Stačí do něj vložit potvrzení o určitém počtu odpracovaných hodin, automat se rozsvítí, zabliká a po stlačení příslušných tlačítek z něho začnou padat atraktivní výhry: limonády, horská kola, kiwi, hamburgery. Vše je hezky zabalené a zaručeně čerstvé. Ty společnosti, které podobný hrací automat nezkonstruovaly, jsou považovány za primitivní. Člověk vyspělé společnosti má nad nimi obrovskou převahu, neboť velice dobře ví, do kterého otvoru má vložit potvrzení a ze kterého otvoru mu začne padat zboží. Co se děje uvnitř, ho přitom nemusí příliš zajímat.
@@ -136,8 +124,6 @@ Podobná vize ovšem naší společnosti nehrozí. Lze se přít o to, je-li to
 Podle Marcuseho prosperita a konzum snižují užitnou hodnotu lidské svobody. Lidé žijící v blahobytu ztrácejí důvod naléhat na právo na své vlastní sebeurčení. Proč také, když je jejich ovládaný život životem pohodlným. Rubem jejich hojnosti je však živořící příroda. Umírající příroda nám nyní dává ještě jednu a zdá se, že poslední šanci stát se opět svobodnými. Lidé vyspělých zemí mají vzácnou možnost otestovat skutečnou míru své vyspělosti. Pravdivé informace o skutečném stavu přírody jim umožňují rozhodnout se, zda chtějí čekat, až spokojený blahobyt zaplaví jejich konzumní útočiště splašky ekonomického růstu a pokroku. Spolu s Marcusem se budeme muset také my vážněji zamyslet, zda je „životní standard dosažený ve většině rozvinutých průmyslových oblastí skutečně vhodným vývojovým modelem. S ohledem na to, co tento standard z člověka a přírody udělal, je třeba se opět tázat, zda to stojí za oběti, které jsou na jeho ochranu přinášeny“ (Marcuse 1991:181).
 
 ## Konzum v pařeništi
-
-  
 
 Neustále rostoucí konzum vyhovuje právě tak výrobcům, soupeřícím na trhu o odbyt svých výrobků, jako politickým režimům, spoléhajícím na to, že dosažený nebo alespoň slibovaný blahobyt je nejjistější zárukou loajality občanů. A tak kromě přírody vyhovuje rostoucí konzum vlastně všem. Nicméně příroda, i když stojí v této otázce osamocena, ponechala si ve věci dalšího konzumu rozhodující právo veta. Uskutečňuje ho dnes především prostřednictvím tzv. skleníkového efektu.
 
@@ -162,8 +148,6 @@ Navíc teoreticky platí, že trh je sám schopen regulovat cenu surovin a ener
 Hlavními viníky neutěšené situace jsou opět konzumenti vyspělých zemí. Oxid uhličitý, který se podílí na oteplování planety téměř ze dvou třetin, se z plných 90 % uvolňuje při spalování fosilních paliv. Zbylých 10 % přidávají důsledky ničení tropických pralesů, opět z velké části pro potřeby konzumentů vyspělých zemí. Neustále roste podíl transportu jak na spotřebě energie (motorismus dokáže využít energii pouze ze 17 %), tak na celkovém znečištění. Přitom zůstává v zájmu energetických koncernů upravovat příslušné tarify nikoli v závislosti na riziku oteplování klimatu, nýbrž tak, aby byl umožněn rostoucí odběr proudu a plynu spotřebiteli. Výsledkem je, že osmdesátá léta představují zatím nejteplejší dekádu zaznamenanou od počátků meteorologických měření.
 
 ## Případ McDonald’s
-
-  
 
 Relativnost potřeb, nepřirozenost konzumu a utrpení přírody, která to vše hradí, lze ilustrovat na jednom ze zvlášť podařených symbolů centralizované konzumní společnosti – na oblíbených hamburgerech firmy McDonald’s. Právě tato firma dokázala přímo ukázkově spojit rychlou službu zákazníkům s rychlou devastací přírody, obojí v měřítku celé planety.
 

@@ -3,8 +3,6 @@ title: "Reálný socialismus jako přírodní pohroma a\_krize státu blahobytu"
 contentType: prose
 ---
 
-  
-
 Z hlediska ekologického představují kapitalismus a socialismus dvě varianty masové společnosti založené na nadměrné centralizaci moci, která se legitimuje vůči ovládaným péčí o neustálý růst průměrného konzumu. Podstatnou součástí obou systémů je kontrola masy populace prostřednictvím reálného blahobytu, anebo jeho příslibem do budoucna. Oba systémy přitom spočívají na sebevražedném předpokladu, podle něhož jsou jednotlivé části planety Země rukojmím jednotlivých národních států a přírodní bohatství, které se na jejich teritoriu nachází, může být konfiskováno zcela libovolně podle jejich momentálních potřeb.
 
 Z ekologického hlediska se socialismus a kapitalismus liší způsobem, jakým znásilňují přírodu pro potřeby své vlastní mocenské reprodukce. Na první pohled jsou patrny pouze nejviditelnější z těchto rozdílů: zatímco kapitalismus dává již tradičně přednost drancování cizích území, socialismus se z řady důvodů iniciativně soustředil na drancování území vlastního. Socialismus jako politický režim vznikl v době, kdy sféry vlivu na zeměkouli byly již rozebrány, a až do svého zhroucení nebyl schopen (přes několik dílčích a dočasných úspěchů) dosáhnout pro sebe výhodnějšího přerozdělení. Za touto vnější kulisou se však skrývají hlubší zvláštnosti základních strukturních rysů obou systémů.
@@ -13,8 +11,6 @@ V podobě vyspělého kapitalismu a reálného socialismu rozvinula lidská sp
 
 ## Kapitalismus versus socialismus:  
 Oblasti kontroly a oblasti relativní svobody
-
-  
 
 Úvahy politiků a žurnalistů o kapitalismu jako společnosti svobody a socialismu jako říši nesvobody nemají pochopitelně za cíl vysvětlit povahu obou společností, nýbrž v případě politiků mají podepřít jejich mocenské postavení, zatímco žurnalistům mají umožnit získat si přízeň těchto politiků.
 
@@ -42,8 +38,6 @@ V každém případě však dojde ke změně hlavního nástroje kontroly spole
 
 ## Peníze a úřad  
 jako dva alternativní nástroje kontroly
-
-  
 
 Kapitalismus a socialismus představují dva typy vysoce centralizované a industrializované společnosti. Ke své regulaci užívají tyto společnosti v různé míře dvou hlavních principů, jejichž původ a rozvoj souvisí mnohem více s centralizací než s industrializací. Kapitalismus i socialismus jsou dědici městské kultury a jejích dvou vynálezů: principu kontroly pomocí peněz a principu kontroly pomocí byrokratického úřadu.
 
@@ -100,8 +94,6 @@ Podobně jako ministerstvo školství dbá, aby nepřicházelo do přímého kon
 Byrokracie se formovala v evropském civilizačním kontextu po celá staletí. Rozhodně nevznikla proto, aby vyřešila kterýkoli z problémů, které po tuto dobu společnost trápily. Ostatně celý mechanismus jejího fungování takovému jednorázovému vyřešení jakéhokoli problému spolehlivě brání. Nalézat účinná řešení není přirozeně v zájmu žádné organizace, neboť by tím ztratila důvod k existenci. V jejím zájmu je problémy právě jen řešit. Byrokracie jako seberegulující systém ustavila základní vzorce svého fungování v době, kdy vidina nekonečného řešení určitého problému znamenala záruku trvalého sociálního zabezpečení členů organizace a vysokého statusu pro všechny řešitele. Byrokratický úřad je proto naprosto nevhodným nástrojem pro řešení problémů ekologického typu, tedy problémů, jejichž nevyřešení nepřináší trvalé zajištění a status, nýbrž zánik celého systému.
 
 ## Devastace páchnoucí a devastace voňavá
-
-  
 
 Období budování, rozvoje a postupného vyhnívání reálného socia­lismu lze přirovnat k přírodní pohromě. Existuje přesná dokumentace, která zachycuje dopady tohoto období na naši přírodu i na zdravotní stav populace (Moldan 1990, Hadač 1983, Vavroušek 1990).
 

@@ -3,13 +3,9 @@ title: "Politická moc a\_příroda"
 contentType: prose
 ---
 
-  
-
 Samotný trh není schopen svými mechanismy regulovat hospodaření člověka na planetě způsobem, který by bylo možno přežít. Existují snad v oblasti dnešní politické moci spolehlivější mechanismy, které by pojišťovaly šanci lidstva na přežití?
 
 ## Kontraproduktivita národních států
-
-  
 
 Politická mapa světa je dnes složena z pestrobarevné mozaiky národních států i států vytvořených dodatečně jako nápodoba států národních. Centralizační síly moderních států dokázaly v průběhu staletí překonat vnitřní anarchii a blokovat odstředivé tendence uvnitř svých hranic. Stav války všech proti všem tam byl alespoň v rámci jednotlivých států překonán. Navenek státních hranic však k podobné pacifikaci zdaleka nedošlo. Každý stát usiluje o vlastní suverenitu, která v podstatě znamená, že si kdykoli vyhrazuje právo vyhlásit válku komukoli.
 
@@ -59,8 +55,6 @@ Ve svých důsledcích je sama možnost přežití občanů na udržitelné úro
 
 ## Masová demokracie a příroda
 
-  
-
 Evropští (a po jejich vzoru tedy také naši) politikové často o demokracii prohlašují, že je to nejlepší ze všech špatných politických zřízení. Politik, který tento bonmot vymyslel, byl vtipný. Politikové, kteří ho donekonečna opakují, jsou už jenom líní.
 
 Moderní demokracie je pokusem o legitimizaci a kontrolu vysoce centralizované a ve své podstatě nedemokratické moci. Moderní státy a jejich politikové těží z toho, že pojem „demokracie“ se původně pojil se sociálně přehlednými, protože miniaturními útvary antických městských států. Jestliže sama demokracie řeckých měst vykazovala velmi četné vady a nedostatky (existence otroků, vyloučení žen, totalitní rysy vynucené permanentním válčením obce), pak demokracie centralizovaná představuje politický útvar, který je třeba interpretovat velice opatrně.
@@ -78,8 +72,6 @@ Skutečná svoboda je v podmínkách centralizované státní moci minimální.
 Jak je mají vlastně poznat, to jim nikdo neporadí.
 
 ## Profesionálové politiky a političtí analfabeti
-
-  
 
 Teoreticky by měla demokracie znamenat, že každý občan bude mít stejné právo podílet se na rozhodování o svých osudech. Toto naivní pojetí demokracie zároveň implicitně předpokládá, že demokratické instituce rozhodují o osudech občanů podle míry závažnosti jednotlivých problémů. Ani tento předpoklad není v masové demokracii splněn, velká politika funguje jiným způsobem a ctí jiné priority.
 
@@ -127,8 +119,6 @@ Celý tento mechanismus se přímo čítankově projevil v bývalém Českoslov
 
 ## Šance přírody v soupeření politických stran
 
-  
-
 Vznik centralizovaných masových demokracií vedl ke vzniku politických stran. Politické strany se značnou měrou zasloužily o to, že řeči o demokracii hovoří o něčem poněkud jiném, než o čem vypovídá běžná praxe systémů, které se na demokracii odvolávají.
 
 Až do poloviny minulého století nebyly politické strany s demokracií spojovány a první američtí prezidenti dokonce varují před rozbíjením veřejnosti do soupeřících stranických skupin. Vznik stran byl vynucen nepřehledností příliš velkých a příliš centralizovaných politických útvarů. Politické strany vznikají jako prostředek umožňující seskupovat stoupence určitého politika či skupiny politiků a napomáhající jejich prosazení ve volbách. Jsou tedy původně jakýmsi politickým transformátorem, který má zprostředkovat kontakt mezi neorganizovanou masou občanů a parlamentním životem. Propojují politika s širším okruhem jeho voličů.
@@ -167,8 +157,6 @@ Ostrogorského úvahy předznamenávají mnohé z pozdějšího osudu ekologie 
 
 ## Všechny strany jsou konzervativní
 
-  
-
 Vláda jedné strany dokázala dialekticky skloubit všechny nedostatky existující v roztroušené podobě u různých stran, takže mohl vzniknout vzácně odpudivý celek. Opětné rozložení těchto nedostatků a jejich další reprodukce v systému více stran však představuje řešení, které může uspokojit opět jen ty nejortodoxnější straníky.
 
 Až časem vstoupíme do Evropy, s údivem zjistíme, že systém politických stran se v ní již fakticky přežil. Hesla, s nimiž kráčejí tyto strany do boje dnes, stejně neohroženě jako v minulém století, už málokoho přesvědčí a téměř nikoho nezaujmou. Zaměstnány neustálými vzájemnými politickými šarvátkami strany přehlédly, že již nežijeme v 19. století. Vyžívají se například v testování opozice práce a kapitálu i tam, kde již existují opozice jiné, a jak se zdá, mnohem vážnější. Protože uvažují v kategoriích minulého století, nedokáží postřehnout rozpor mezi producenty a konzumenty, který dnešního člověka zajímá více, než dozvědět se, jaká je exaktní míra jeho vykořisťování.
@@ -194,8 +182,6 @@ Jakákoli zmínka o „většině“ by přestala vzbuzovat v nezávislých my
 Politika by se stala mnohem realističtější. Zmizela by totiž povinnost stran a jejich představitelů rozdávat sliby napravo i nalevo, když přitom všichni tuší, že zdaleka ne všechny jsou míněny vážně a budou splnitelné. Odpadl by celý odpuzující mezičlánek boje o moc, který je dnes považován za nezbytný předpoklad toho, aby se problémy mohly začít řešit. Je pravděpodobné, že i poté by zbyly relikty stran, jejichž členové by se i nadále organizovali především kvůli dosažení svých vlastních zájmů. Tyto strany by se však už nadále nemohly halit do frází o svobodě a prosperitě pro všechny. Musely by začít bojovat s odkrytým hledím a riskovat, že ostatní časem přestanou brát jejich krásné řeči vážně.
 
 ## Televize jako symbol pasivní demokracie
-
-  
 
 Centralizovaná společnost jen stěží může být společností skutečně demokratickou, bez ohledu na to, zda se sama ústy svých aristokratických vůdců za takovou prohlašuje. Jedná se v lepším případě o pasivní demokracii, jejíž popis podal již Max Weber.
 
