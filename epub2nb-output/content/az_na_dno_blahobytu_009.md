@@ -3,6 +3,8 @@ title: "Potřeby, konzum a\_příroda"
 contentType: prose
 ---
 
+<section>
+
 Když roku 1972 na Stockholmské konferenci o životním prostředí indická ministerská předsedkyně Indíra Gándhíová prohlásila bídu existující v zemích třetího světa za největší světové ekologické znečištění, mohli si praví viníci blížící se ekologické katastrofy alespoň na chvíli oddechnout, neboť pozornost byla alespoň zatím odvrácena jiným směrem. Teprve o dvacet let později na ekologickém summitu v Rio de Janeiru uvedl malajsijský ministerský předseda věci opět na správnou míru. Upozornil na to, že i kdyby 90 % méně zámožných obyvatel planety vymřelo hladem, skutečné znečištění klesne pouze o 10 %.
 
 ## Potřeby přirozené a potřeby vynucené
@@ -160,3 +162,5 @@ McDonald’s zná i další způsoby, jak spolehlivě devastovat pří­rodu. N
 Jak vidno, hamburger je zhotovován na stejném principu, na jakém funguje moderní centralizovaný stát. Podle tohoto principu lze jakoukoli lokální potřebu uspokojit zdaleka nejlépe, využijeme-li k tomu zdrojů mobilizovaných vně lokality. Výhodou celého systému je unifikace, která usnadňuje hromadnost výroby v případě hamburgeru a rozhodování v případě suverénního státu. Jeho velkou nevýhodou je ovšem obrovská energetická náročnost. Pokud by vyplýtvaná energie měla být plně hrazena (a to včetně bezprostředních i vzdálenějších ekologických dopadů), snadno by se hamburgery mohly stát cenově nedostupnými i pro majitele firmy. Pokud by, analogicky, měla být vyplýtvaná energie započtena do nákladů na provoz státu, daňoví poplatníci by tento provoz nikdy nemohli pokrýt. Proto výrobci hamburgerů i provozovatelé států, aby si udrželi své živnosti, sahají k jednoduchému úskoku. Tváří se, že všechna energie, kterou při svém podnikání marnotratně vyplýtvali, má hodnotu srovnatelnou s náklady na její získání. Jak případně poznamenává Douthwaite, je to jako kdybychom se domnívali, že hodnota našich úspor je dána cenou lístku na autobus, kterým se svezeme do spořitelny.
 
 Popsanou strategii lze praktikovat pouze do té doby, než v souvislosti s nevratným úbytkem neobnovitelných zdrojů dále pronikavě vzrostou náklady na jejich těžbu. Již počátkem příštího tisíciletí má ostatně těžba ropy v USA spotřebovávat více energie, než kolik bude obsahovat ropa vytěžená. Teprve potom zřejmě dojde k přehodnocení stanoviska na skutečnou cenu fosilní energie. Lidé si snad uvědomí, že není možno cenově zvládnout ani dnešní způsob výroby hamburgerů, ani dnešní způsob reprodukce mocenských útvarů. Není však zaručeno, že toto prohlédnutí proběhne v atmosféře happy endu. Může k němu dojít v atmosféře až nepříjemně přehřáté.
+
+</section>

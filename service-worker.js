@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-7ed3778';
+const CACHE = 'cache-7facb8d';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./az_na_dno_blahobytu_006.html","./az_na_dno_blahobytu_007.html","./az_na_dno_blahobytu_008.html","./az_na_dno_blahobytu_009.html","./az_na_dno_blahobytu_010.html","./az_na_dno_blahobytu_011.html","./az_na_dno_blahobytu_012.html","./az_na_dno_blahobytu_013.html","./az_na_dno_blahobytu_014.html","./az_na_dno_blahobytu_015.html","./az_na_dno_blahobytu_016.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./az_na_dno_blahobytu_005.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_az_na_dno_blahobytu.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./az_na_dno_blahobytu_005.html","./az_na_dno_blahobytu_006.html","./az_na_dno_blahobytu_007.html","./az_na_dno_blahobytu_008.html","./az_na_dno_blahobytu_009.html","./az_na_dno_blahobytu_010.html","./az_na_dno_blahobytu_011.html","./az_na_dno_blahobytu_012.html","./az_na_dno_blahobytu_013.html","./az_na_dno_blahobytu_014.html","./az_na_dno_blahobytu_015.html","./az_na_dno_blahobytu_016.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_az_na_dno_blahobytu.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

@@ -3,6 +3,8 @@ title: "Výzva k\_přežití: Decentralizace"
 contentType: prose
 ---
 
+<section>
+
 Každá diskuse o neudržitelné ekologické situaci vedená se stoupenci neudržitelnosti končívá obvykle stejně. Nejbystřejší z nadměrných konzumentů, vědom si toho, že zdaleka nejlepší obranou je útok, vypálí ostře inteligentní dotaz: „A co tedy vlastně navrhujete?“ Tento dotaz zpravidla nečeká na odpověď, je spíše vážným obviněním. Jako kdyby se jím říkalo: „Heč, a stejně nás nedokážete zachránit.“ Po vznesení dotazu nadměrný konzument opět usedá, vědom si své moudrosti.
 
 Ani autor této práce neaspiruje na Nobelovu cenu za záchranu planety. To však ještě neznamená, že se smíříme s moudrostí nadměrných konzumentů a jejich mluvčích, kteří na nás rozzářeně zírají z obrazovek televizorů.
@@ -104,3 +106,5 @@ Bude také zapotřebí už brzy zrušit tabu, které bylo uvaleno vyznavači kul
 Až dosud se na přípravě podmínek pro budoucí uspořádání civilizovaného života podílejí mnohem více a energičtěji stoupenci blahobytu než ekologové. Připravují jeho nástup tím, že neuvěřitelně systematicky likvidují poslední zdroje, bez nichž již nebude možno udržet nadále v provozu ani generalizovaný trh, ani pasivní demokracii založenou na nadměrném konzumu. Dostáváme se do fáze, kdy by iniciativu měli převzít ekologové. Je nejvyšší čas zachránit to, co ještě zbývá, má-li být skromnější život, který nás čeká, životem důstojným. Lze žít šťastně i s málem. Právě o ně se dnes bojuje.
 
 Cesta ke dnu blahobytu nastoupená před dvěma sty lety je téměř u konce. Je nejvyšší čas vysvětlit závodníkům, kteří se na ni vydali, že tato cesta nemá cíl. Je načase jim říci, kolik pohonných hmot již spotřebovali z nádrže, která není bezedná. Bude třeba sesednout a jít se podívat, jestli se trávník kolem trati může ještě zazelenat. Pro ješitné závodníky toužící po vavřínovém věnci to nebude nic příjemného. Ušetří jim to však ošklivý karambol za další zatáčkou. Ten čeká bohužel i na ty, kteří se zájmem přihlíželi.
+
+</section>
