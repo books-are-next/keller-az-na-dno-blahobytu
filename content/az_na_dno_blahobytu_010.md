@@ -3,6 +3,8 @@ title: "Politická moc a\_příroda"
 contentType: prose
 ---
 
+<section>
+
 Samotný trh není schopen svými mechanismy regulovat hospodaření člověka na planetě způsobem, který by bylo možno přežít. Existují snad v oblasti dnešní politické moci spolehlivější mechanismy, které by pojišťovaly šanci lidstva na přežití?
 
 ## Kontraproduktivita národních států
@@ -192,3 +194,5 @@ Komunikace ve společnosti tímto způsobem „demokratizované“ zůstává i�
 Přesně podle všech pravidel pasivní demokracie skýtá televize naprostou iluzi volby, kdy příjemce může svobodně vybírat mezi řadou programů nabízejících s malými obměnami tentýž obsah. Jednostrannost působení, pasivita příjemců, pocit spoluúčasti a iluze svobodné volby postačí k účinné manipulaci průměrným občanem v podmínkách centralizované masové společnosti.
 
 Americký sociolog R. K. Merton hovoří o občanech, kteří mají díky televizi pocit spoluúčasti na dění ve všech klíčových oblastech planety. V iluzi, že jsou přímými účastníky světového dění, prosedí před svými televizory právě tolik času, kolik by jinak mohli věnovat úsilí o změnu běhu věcí ve svém bezprostředním okolí. Podle Herberta Marcuseho je úloha televize v systému konzumu natolik klíčová, že pouhé nefungování televize by mohlo ohrozit celý systém více než všechny krvavé politické revoluce. Politická manipulace prováděná v rámci vysoce centralizovaných útvarů je v dnešní době bez televize již prakticky nepředstavitelná.
+
+</section>

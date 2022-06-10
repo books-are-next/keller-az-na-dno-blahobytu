@@ -3,6 +3,8 @@ title: 'Úvod: Zplodiny blahobytu'
 contentType: prose
 ---
 
+<section>
+
 Heslem dne je prosperita. Ekonomové a politici bez ohledu na stranickou příslušnost slibují svým voličům více štěstí, více blahobytu, více prosperity. Zaklínadlo prosperity k nám promlouvá z rádia, zubí se na nás z televize a mává na nás z plakátů, z nichž ještě včera civěly neméně stupidní reklamy na vyspělý socialismus.
 
 Nikdo se příliš neobtěžuje objasnit, co vlastně ona magická prosperita znamená, jaký je účet, který za ni bude třeba zaplatit, a jaké jsou vůbec šance lidí přežít důsledky slibovaného blahobytu. Údaje o odvrácené straně prosperity se již nevešly na rozjásané plakáty a nevešly se ani do vysílacích časů reklamami přetížených médií. Je to škoda, neboť tyto údaje jsou výmluvné.
@@ -46,3 +48,5 @@ Jedná se především o princip ekonomického růstu, který je úzce a mnoho
 Volba, před kterou dnes stojíme, je osudová. Pokud se nezřekneme blahobytu, sami máme možná ještě šanci nějak dožít; budoucí generace již takovou šanci mít nebudou. Pokud se proti blahobytu postavíme, může to zničit tržní systém v jeho dnešní podobě, zcela jistě to způsobí legitimační krizi pasivní demokracie a pochopitelně to zruší možnost praktikovat v masovém měřítku konzumní styl života.
 
 Jsou lidé, kteří tvrdí (a někteří z nich si to snad dokonce i myslí), že lze zachránit obojí. Žádná fakta o akutním stavu přírody nedokáží zpochybnit jejich víru v to, že přírodu zachrání, budou-li používat recyklovaný toaletní papír. Připomene-li jim někdo tisíce druhů rostlin a živočichů, které člověk vyhubil, vyjmenují snad všechny, které ještě zbývají. Hovoří zasněně o rozumných úsporách energie, recyklaci a filtrech, které jednou umocní všechno napravit. Jejich snaha zachránit planetu alespoň částečně je dojemná, ale nebezpečná. „Z hlediska drastických změn, které musí nastat, máme-li přežít, jsou mnohé aktivity dnešních environmentalistů triviální – a co je horšího, stávají se překážkami našeho prohlédnutí. Jakkoli jsou snahy o větší důraz na veřejnou dopravu, recyklaci, méně škodlivé obaly, více veřejné zeleně, o filtry na komínech apod. samy o sobě hodnotné, zastírají nutnost osvobodit se od destruktivního produktivismu vcelku. Z čistě ekologického hlediska už nezbývá žádný čas ani prostor pro čistější výrobu a recyklaci přebytečných věcí“ (Hoogendijk 1991:89).
+
+</section>

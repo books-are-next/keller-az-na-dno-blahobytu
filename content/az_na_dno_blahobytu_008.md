@@ -3,6 +3,8 @@ title: "Trh, ekonomický růst a\_příroda"
 contentType: prose
 ---
 
+<section>
+
 ## Iluze růstu
 
 Heslo ekonomického růstu patří k základní ideové výbavě politiků stojících v čele neudržitelné společnosti. V jejich slibech plní ekonomický růst nejméně trojí funkci:
@@ -118,3 +120,5 @@ Ekologicky nejnáročnější (a přírodě nejméně splacenou) součást ekono
 Pokud by se znečištění i cena promrhané energie do nákladů na transport a dopravu skutečně promítly, centralizovaná ekonomika a politika by se v důsledku toho musela vrátit k měřítkům a potřebám nepolitiků. Pokud k takové radikální decentralizaci nedojde, pokud zůstanou zachovány dnešní centralizované systémy, budou tyto útvary nuceny i nadále ignorovat své dluhy vůči přírodě, které narůstají v podobě nákladů na jejich vlastní provoz. Ve svých důsledcích se ovšem bude toto ignorování až do definitivního zhroucení centralizovaných systémů prudce prodražovat, a to spolu s tím, jak poroste jejich energetická náročnost a jak budou klesat absorpční schopnosti přírody.
 
 Centralizovaná společnost prostě není schopna platit skutečné náklady na svou centralizaci. Pokud by je i chtěla začít platit, ekonomicky by se zhroutila. Pokud je i nadále platit nebude, zhroutí se příroda.
+
+</section>

@@ -3,6 +3,8 @@ title: Literatura
 contentType: prose
 ---
 
+<section>
+
 AUSTRUY, J.: _Le prince et le patron_. Paris, Cujas 1972.
 
 BAILEY, F. G.: _Les Règles du Jeu Politique_. Paris, PUF 1971.
@@ -100,3 +102,5 @@ VAVROUŠEK, J.: _Životní prostředí a sebeřízení společnosti_. Praha, In
 WEBER, M.: _Wirtschaft und Gesellschaft_. Tübingen 1925, Bd. II.
 
 WÖHLCKE, M.: _Umweltzerstörung in der Dritten Welt_. München, Beck 1987.
+
+</section>
