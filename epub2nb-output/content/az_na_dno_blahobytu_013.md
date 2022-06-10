@@ -3,8 +3,6 @@ title: "Výzva k\_přežití: Decentralizace"
 contentType: prose
 ---
 
-  
-
 Každá diskuse o neudržitelné ekologické situaci vedená se stoupenci neudržitelnosti končívá obvykle stejně. Nejbystřejší z nadměrných konzumentů, vědom si toho, že zdaleka nejlepší obranou je útok, vypálí ostře inteligentní dotaz: „A co tedy vlastně navrhujete?“ Tento dotaz zpravidla nečeká na odpověď, je spíše vážným obviněním. Jako kdyby se jím říkalo: „Heč, a stejně nás nedokážete zachránit.“ Po vznesení dotazu nadměrný konzument opět usedá, vědom si své moudrosti.
 
 Ani autor této práce neaspiruje na Nobelovu cenu za záchranu planety. To však ještě neznamená, že se smíříme s moudrostí nadměrných konzumentů a jejich mluvčích, kteří na nás rozzářeně zírají z obrazovek televizorů.
@@ -29,8 +27,6 @@ Je velkým omylem domnívat se, že centralizovaná moc může působit ekologic
 
 ## Neviditelná ruka konzumu
 
-  
-
 Úkol načrtnout alespoň základní parametry udržitelného kompromisu mezi nadměrným centralismem a naprostou anarchií není právě jednoduchý. Přitom je zřejmé, že každé navržené řešení musí obsahovat nejen cíl, k němuž se směřuje, ale také způsob, jímž ho lze dosáhnout. Podaří-li se nám totiž třeba i přesvědčivě vylíčit stav společnosti, který by umožňoval minimalizovat neblahé působení člověka na přírodu, vcelku to ještě mnoho neznamená. Naše civilizace, která je sama na sebe pyšná natolik, že se nerozpakovala svým jménem zdecimovat civilizace alternativní, není právě nejlépe uzpůsobena k vlastnímu přežití. Zmínili jsme se již o četných mechanismech, které dokáží tuto snahu víceméně spolehlivě blokovat. Nezbývá než s těmito mechanismy počítat.
 
 Neviditelná ruka konzumu má tu zvláštní vlastnost, že dokáže ožebračit ty, kdo mají plná ústa prosperity. Dnešní světová politika a ekonomika jsou strženy nesmyslnou logikou budování umělé zeměkoule dálnic, letišť a mrakodrapů do křeče, která stále zjevněji odhaluje její naprostou zvrácenost. Je třeba pečlivě, neustále a krok za krokem monitorovat toto počínání. Je třeba den po dni ukazovat každému, kdo ještě neoslepl jako ovce v jižním Chile pasoucí se pod ozonovou dírou, jak „prosperita“ ve svém posledním záchvatu vybíjí celé živočišné druhy, mění v poušť tropické pralesy a zoufale z místa na místo převáží jedovaté zplodiny svého skomírání.
@@ -46,8 +42,6 @@ Problém je tedy poměrně jednoznačný. Cílem je skromná společnost, která
 Je vysoce pravděpodobné, že čím více zásob surovin a energie dokáže ta která oblast uchránit před pokušením nabídnout je na světovém jarmarku, tím větší budou v budoucnu šance této oblasti na civilizované přežití. Zdá se, že některé země třetího světa tuto šanci již propásly a že dnes jsme na řadě my. Až trh zvedne cenu mizejících statků do takové výše, že budou k dispozici již jen pro nejbohatší, pochopí mnozí, proč vlastně Sever pořád tolik zbrojil.
 
 ## Decentralizace podle přírody
-
-  
 
 Hrabivost, která svými dlouhými nehty skřípe o dno udržitelného rozvoje, je sice schopna bez větších problémů rozvrátit existující systém, nezná však k němu žádné alternativy. Naopak, je na ně přímo alergická. Proto je budou muset vymyslet jiní. Je třeba hledat alternativy pro dobu, kdy ti, kdo znají pouze jedinou cestu, s nelíčeným údivem zjistí, že už jsou na jejím konci. Přesnější představa o podobě decentralizované společnosti může být zanedlouho jedním z toho mála, co bude lidem zbývat poté, co vše ostatní ve jménu budoucího blahobytu prošustrovali.
 
@@ -74,8 +68,6 @@ Cílem přívrženců decentralizace není návrat k absolutní soběstačnosti
 Ostatně ti, kdo intuitivně ztotožňují radikální decentralizaci společnosti s návratem k primitivismu a obávají se nástupu myšlenkového a kulturního temna, zapomínají, že parametry velmi blízké navrhovaným řešením byly v Evropě zcela běžné v době renesance a humanismu, zatímco totalitární společnosti se daří nejlépe ve vysoce centralizovaných státech s velkoměsty a dálnicemi, v nichž je průmyslově provozováno nejen zemědělství, ale též věda a masová kultura.
 
 ## Raději život než blahobyt
-
-  
 
 Existuje několik navzájem nezávislých myšlenkových linií, které se snaží alespoň v hrubých obrysech vystopovat podobu možné decentralizované společnosti. Pro jednoduchost je nazveme linií sociologickou, urbanistickou a ekologickou.
 

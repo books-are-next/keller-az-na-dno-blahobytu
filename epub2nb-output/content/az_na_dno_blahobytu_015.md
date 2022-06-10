@@ -3,8 +3,6 @@ title: Shrnutí
 contentType: prose
 ---
 
-  
-
 Převážná většina ekologické literatury se zabývá popisem toho, jak člověk postupně a systematicky ničí přírodu, která je nezbytným předpokladem jeho přežití. Tato studie má poněkud jiný záměr. Snaží se přispět k pochopení toho, proč naprostá většina lidí – a konečně také lidstvo jako celek – lhostejně přihlíží blížící se pohromě. Klíč k vysvětlení této absurdity lze, podle našeho názoru, hledat především v přílišné centralizaci společnosti.
 
 Nadměrná centralizace politických útvarů je dědictvím minulosti, která řešila zcela jiné než ekologické problémy. V dnešní situaci krajní ekologické nouze se však stává jednou z rozhodujících překážek udržitelného vývoje. Centralizace blokuje možnost přežití v několika ohledech:

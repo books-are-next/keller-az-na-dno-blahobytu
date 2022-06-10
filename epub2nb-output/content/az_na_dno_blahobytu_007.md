@@ -3,8 +3,6 @@ title: 'Úvod: Zplodiny blahobytu'
 contentType: prose
 ---
 
-  
-
 Heslem dne je prosperita. Ekonomové a politici bez ohledu na stranickou příslušnost slibují svým voličům více štěstí, více blahobytu, více prosperity. Zaklínadlo prosperity k nám promlouvá z rádia, zubí se na nás z televize a mává na nás z plakátů, z nichž ještě včera civěly neméně stupidní reklamy na vyspělý socialismus.
 
 Nikdo se příliš neobtěžuje objasnit, co vlastně ona magická prosperita znamená, jaký je účet, který za ni bude třeba zaplatit, a jaké jsou vůbec šance lidí přežít důsledky slibovaného blahobytu. Údaje o odvrácené straně prosperity se již nevešly na rozjásané plakáty a nevešly se ani do vysílacích časů reklamami přetížených médií. Je to škoda, neboť tyto údaje jsou výmluvné.

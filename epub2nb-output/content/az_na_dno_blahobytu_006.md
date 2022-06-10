@@ -3,9 +3,9 @@ title: Předmluva ke druhému vydání
 contentType: prose
 ---
 
-  
-
 Knížka Až na dno blahobytu vyvolala nejen v kruzích ekologů poměrně značný ohlas. Vyvolala samozřejmě také nesouhlasné reakce. Byl jsem mimo jiné obviněn ze sympatií k nedemokratickým režimům, z proticivilizačních postojů a dokonce nařčen z výzvy k násilnému vystěhovávání lidí z velkoměst. Podobná obvinění jsou natolik absurdní, že obrana proti nim by byla ztrátou času. Nikdo z kritiků bohužel ani slůvkem nenastínil svou vlastní ideu, jak čelit hrozící ekologické krizi. Zbavili mne tak potěšení podrobit stejně zdrcující, i když snad ne stejně zkreslující kritice koncepce jejich.
+
+  
 
 V uplynulých dvou letech tak spatřil světlo světa pouze jediný pro­jekt zabývající se bezprostředně naší ekologickou situací. Jde o několikrát přepracovávaný návrh ministerstva Františka Bendy (někdy omylem označovaného jako Ministerstvo životního prostředí) ke koncepci státní politiky v oblasti ekologie. Hlavním cílem zmíněného návrhu je však udržení něčeho úplně jiného, než našich nadějí na udržitelnou společnost. Proto necítím potřebu korigovat svoji knížku ani v tomto ohledu.
 
