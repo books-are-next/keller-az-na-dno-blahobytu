@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "keller-az-na-dno-blahobytu-a815506",
-  "revision": "a815506",
+  "identifier": "keller-az-na-dno-blahobytu-b243efa",
+  "revision": "b243efa",
   "readingOrder": [
     "promo.html",
     "az_na_dno_blahobytu_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:04:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949068878
+    "date": "Mon Jun 13 2022 21:55:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157314855
   },
   "documents": [
     {
@@ -465,9 +465,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 100,
-      "chars": 639,
-      "ideas": 9,
+      "words": 139,
+      "chars": 853,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "az_na_dno_blahobytu_016.html",
@@ -485,9 +485,9 @@
   ],
   "totals": {
     "all": {
-      "words": 35735,
-      "chars": 248407,
-      "ideas": 469
+      "words": 35774,
+      "chars": 248621,
+      "ideas": 478
     },
     "chapters": {
       "words": 35629,
