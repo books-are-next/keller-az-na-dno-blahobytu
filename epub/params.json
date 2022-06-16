@@ -8,7 +8,9 @@
       "author": "Jan Keller",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-03-31T00:00:00.000Z",
-      "isbn": "978-80-274-2064-3"
+      "isbn": "978-80-274-2064-3",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
