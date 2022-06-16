@@ -12,6 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-31T00:00:00.000Z'
   isbn: 978-80-274-2064-3
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - az_na_dno_blahobytu_005.html

@@ -5,10 +5,11 @@
   "title": "Až na dno blahobytu",
   "author": "Jan Keller",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "keller-az-na-dno-blahobytu-f73be5a",
-  "revision": "f73be5a",
+  "identifier": "keller-az-na-dno-blahobytu-a5a3b0c",
+  "revision": "a5a3b0c",
   "readingOrder": [
     "promo.html",
     "az_na_dno_blahobytu_005.html",
@@ -26,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:51:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272311445
+    "date": "Thu Jun 16 2022 07:30:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364649920
   },
   "documents": [
     {
@@ -485,9 +486,9 @@
   ],
   "totals": {
     "all": {
-      "words": 35792,
-      "chars": 248765,
-      "ideas": 479
+      "words": 35794,
+      "chars": 248776,
+      "ideas": 481
     },
     "chapters": {
       "words": 35629,
