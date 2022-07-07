@@ -28,7 +28,7 @@ readingOrder:
   - az_na_dno_blahobytu_014.html
   - az_na_dno_blahobytu_015.html
   - az_na_dno_blahobytu_016.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
