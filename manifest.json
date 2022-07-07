@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "keller-az-na-dno-blahobytu-7c2a140",
-  "revision": "7c2a140",
+  "identifier": "keller-az-na-dno-blahobytu-f3cd8b3",
+  "revision": "f3cd8b3",
   "readingOrder": [
     "promo.html",
     "az_na_dno_blahobytu_005.html",
@@ -24,11 +24,11 @@
     "az_na_dno_blahobytu_014.html",
     "az_na_dno_blahobytu_015.html",
     "az_na_dno_blahobytu_016.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:10:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979003213
+    "date": "Thu Jul 07 2022 08:29:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182599043
   },
   "documents": [
     {
@@ -77,7 +77,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Předmluva ke druhému vydání",
+          "name": "Předmluva ke druhému vydání",
           "id": null,
           "children": []
         }
@@ -452,7 +452,7 @@
       "role": "chapter",
       "order": 12,
       "prev": "az_na_dno_blahobytu_015.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -465,11 +465,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 157,
-      "chars": 997,
+      "chars": 996,
       "ideas": 19,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "az_na_dno_blahobytu_016.html",
       "next": null,
@@ -486,8 +486,8 @@
   ],
   "totals": {
     "all": {
-      "words": 35794,
-      "chars": 248776,
+      "words": 35793,
+      "chars": 248780,
       "ideas": 481
     },
     "chapters": {
