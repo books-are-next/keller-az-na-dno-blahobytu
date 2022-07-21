@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "keller-az-na-dno-blahobytu-44b6eb7",
-  "revision": "44b6eb7",
+  "identifier": "keller-az-na-dno-blahobytu-505dfb3",
+  "revision": "505dfb3",
   "readingOrder": [
     "promo.html",
     "az_na_dno_blahobytu_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:01:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188110583
+    "date": "Thu Jul 21 2022 14:48:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414912662
   },
   "documents": [
     {
@@ -467,7 +467,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 157,
-      "chars": 996,
+      "chars": 997,
       "ideas": 19,
       "role": "about",
       "order": null,
@@ -486,8 +486,8 @@
   ],
   "totals": {
     "all": {
-      "words": 35793,
-      "chars": 248780,
+      "words": 35794,
+      "chars": 248776,
       "ideas": 481
     },
     "chapters": {
